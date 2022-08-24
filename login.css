@@ -39,13 +39,16 @@ nav li {
     top: 220px;
     
 }
-.form-control{
-    width: 280px;
-    margin-left: 830px;
+form-control{
+    position: relative;
     border-radius: 20px;
+    text-align: center;
     border-color: #000;
     font-weight: bold;
-}  
+    left: 320px;
+    width: 260px;
+    
+}
 .form-check{
     margin-left: 190px;
 }

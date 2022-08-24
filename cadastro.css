@@ -1,0 +1,57 @@
+body{
+    background:  #effffc;
+}
+
+header{
+    height: 118px;
+    background-color: azure;
+    font-family: arial;
+    font-size: 1.2rem;
+    color: #000;
+    -webkit-text-stroke: 1px #1877f2;
+    
+
+}
+nav {
+    position: relative;
+    top: 35px;
+    right:  90px;
+}
+nav img{
+    position: relative;
+    left: 103px;
+    top: -68px;
+    width: 200px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 90px;
+}
+
+dl, ol, ul {
+position: relative;
+text-align: end;
+}
+
+.form-group {    
+    position: relative;
+    text-align: -webkit-center;
+    
+    top: 85px;
+}
+
+.form-control {
+    width: 37%;
+}
+
+.btn-primary {
+    position: relative;
+    top: 85px;
+    width: 9%;
+}
+
+#exampleCheck1{
+    color: blue;
+}
+

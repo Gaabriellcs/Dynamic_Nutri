@@ -1,0 +1,72 @@
+body{
+    background-color: #effffc;
+    font-family: Arial;
+    
+
+}
+header{
+    background-color: azure;
+    font-family: arial;
+    font-size: 1.2rem;
+    color: #000;
+    -webkit-text-stroke: 1px #1877f2;
+    
+
+}
+nav {
+    position: absolute;
+    top: 35px;
+    right:  90px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 90px;
+}
+.logo{
+   
+    width: 200px;
+    height: 210px;
+    position: relative;
+    left: 25px;
+    
+}
+.formulario{
+    position: relative;
+    text-align: center;
+    top: 220px;
+    
+}
+.form-control{
+    width: 280px;
+    margin-left: 830px;
+    border-radius: 20px;
+    border-color: #000;
+    font-weight: bold;
+}  
+.form-check{
+    margin-left: 190px;
+}
+.button{
+    border-radius: 30px;
+    width: 100px;
+    height: 35px;
+    margin-top: 20px;
+    color: #1877f2;
+    
+
+}
+.esqueci-senha{
+    position: relative;
+    top: 140px;
+    margin-left: 830px;
+}
+h5{
+    position: relative;
+    text-align: center;
+    top: 600px;
+}  
+
+
+    
+

@@ -1,0 +1,44 @@
+
+body{
+    background:#effffc ;
+}
+nav{
+    color:aqua;
+}
+
+.ola{
+    color: #1877f2;
+}
+.frase{
+    color: #000;
+}
+.frase2{
+    color: #1877f2;
+}
+.frases{
+    font-size: x-large;
+    position: relative;
+    Bottom: -40px;
+    left: 10px;
+    
+}
+
+.logo{
+    display: table;
+    margin-left: 54rem; 
+    margin-right: auto;
+    margin-top: -320px;
+}
+
+main{
+    font-family: sans-serif;
+    font-size: 1,5em;
+    color: #000000;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+
+
+.iconis{
+    color: #1877f2;
+}
